@@ -4,3 +4,13 @@
 
 ***This is a Website in which you can search github profiles with their***
 ***usernames and you will get the profile card with some important summary with easy UI to understand the user in less time***
+
+<br>
+
+## Demo Screenshot
+
+<img src="https://raw.githubusercontent.com/bhargav-joshi/Github-Portfolio-hunt/main/demo-screenshot.JPG" width=600>
+
+<h4>This is a Website made with HTML, CSS & Javascript and you can try it with above
+button where you have to search any github username, It will generate the Short summary 
+from which you will get a idea of that profile within seconds</h4>
